@@ -1,0 +1,14 @@
+C:\Users\Code\Desktop\test_App_CS_Web_Service(Ne_Yapsak)_v3\test_App_CS_Web_Service(Ne_Yapsak)_v3\Contracts\bin\Debug\Contracts.XML
+C:\Users\Code\Desktop\test_App_CS_Web_Service(Ne_Yapsak)_v3\test_App_CS_Web_Service(Ne_Yapsak)_v3\Contracts\bin\Debug\Contracts.dll
+C:\Users\Code\Desktop\test_App_CS_Web_Service(Ne_Yapsak)_v3\test_App_CS_Web_Service(Ne_Yapsak)_v3\Contracts\bin\Debug\Contracts.pdb
+C:\Users\Code\Desktop\test_App_CS_Web_Service(Ne_Yapsak)_v3\test_App_CS_Web_Service(Ne_Yapsak)_v3\Contracts\bin\Debug\FSharp.Core.dll
+C:\Users\Code\Desktop\test_App_CS_Web_Service(Ne_Yapsak)_v3\test_App_CS_Web_Service(Ne_Yapsak)_v3\Contracts\bin\Debug\FSharp.Core.xml
+C:\Users\Code\Desktop\test_App_CS_Web_Service(Ne_Yapsak)_v3\test_App_CS_Web_Service(Ne_Yapsak)_v3\Contracts\obj\Debug\Contracts.dll
+C:\Users\Code\Desktop\test_App_CS_Web_Service(Ne_Yapsak)_v3\test_App_CS_Web_Service(Ne_Yapsak)_v3\Contracts\obj\Debug\Contracts.pdb
+C:\Users\Code\Documents\Projeler\test_App_CS_Web_Service(Ne_Yapsak)_v3\test_App_CS_Web_Service(Ne_Yapsak)_v3\Contracts\bin\Debug\Contracts.XML
+C:\Users\Code\Documents\Projeler\test_App_CS_Web_Service(Ne_Yapsak)_v3\test_App_CS_Web_Service(Ne_Yapsak)_v3\Contracts\bin\Debug\Contracts.dll
+C:\Users\Code\Documents\Projeler\test_App_CS_Web_Service(Ne_Yapsak)_v3\test_App_CS_Web_Service(Ne_Yapsak)_v3\Contracts\bin\Debug\Contracts.pdb
+C:\Users\Code\Documents\Projeler\test_App_CS_Web_Service(Ne_Yapsak)_v3\test_App_CS_Web_Service(Ne_Yapsak)_v3\Contracts\bin\Debug\FSharp.Core.dll
+C:\Users\Code\Documents\Projeler\test_App_CS_Web_Service(Ne_Yapsak)_v3\test_App_CS_Web_Service(Ne_Yapsak)_v3\Contracts\bin\Debug\FSharp.Core.xml
+C:\Users\Code\Documents\Projeler\test_App_CS_Web_Service(Ne_Yapsak)_v3\test_App_CS_Web_Service(Ne_Yapsak)_v3\Contracts\obj\Debug\Contracts.dll
+C:\Users\Code\Documents\Projeler\test_App_CS_Web_Service(Ne_Yapsak)_v3\test_App_CS_Web_Service(Ne_Yapsak)_v3\Contracts\obj\Debug\Contracts.pdb
